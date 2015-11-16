@@ -11,7 +11,7 @@ var config = {
     income_url: process.env.INCOME_URL || '',
     outcome_token: process.env.OUTCOME_TOKEN || '',
     channels: {
-        '#TechCCU': '#techccu_chat'
+        '#TechCCU': '#general'
     },
     users: {
     },
