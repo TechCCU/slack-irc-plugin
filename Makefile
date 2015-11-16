@@ -3,5 +3,5 @@
 clean:
 	docker rmi techccu/slackbot
 
-build: clean
+build:
 	docker build -t techccu/slackbot .
